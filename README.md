@@ -1,2 +1,2 @@
-# subhrajyotidasgupta.github.io
-Personal website
+# sumit.github.io
+Personal website https://sumitkiiitd.github.io/sumit.github.io/
